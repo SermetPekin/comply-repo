@@ -2,11 +2,11 @@
 
 # comply
 
-    from comply import check_comply
+    from comply import check
 
 ### checks if user's python version is compatible with your project
 
-    def check_comply(
+    def check(
             min_version: str,
             max_version: str,
             min_msg: t.Union[str, t.Callable] = default_min_msg,
@@ -22,7 +22,7 @@
 >  you may use it on the main file of your project 
 > and create a conditional and decide what to do next 
 
-    if check_compat(
+    if check(
             min_version="3.7",
             max_version="3.11",
             min_msg="Your version is less than minimum.",
@@ -35,7 +35,7 @@
 
 > just warn the user and continue
 
-    if check_compat(
+    if check(
             min_version="3.7",
             max_version="3.10",
             min_msg="Your version is less than minimum.",
