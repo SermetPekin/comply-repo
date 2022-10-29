@@ -53,8 +53,7 @@ simulation.txt
 SeriesData/
 logs/
 pickles/
-tests/
-../test.py
+
 unit_tests/
 other_tests/
 OTHER_TESTS/
