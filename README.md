@@ -2,7 +2,7 @@
 
 # comply
 
-    from comply import Project, get_next_version, get_current_version
+    from comply import check_comply
 
 ### checks if user's python version is compatible with your project
 
