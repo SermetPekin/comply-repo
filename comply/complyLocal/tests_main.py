@@ -1,1 +1,1 @@
-from comply.complyLocal.tests.test_comply import *
+from .tests.test_comply import *
