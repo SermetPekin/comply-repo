@@ -1,5 +1,5 @@
-[![Python package](https://github.com/SermetPekin/comply-repo/actions/workflows/python-package.yml/badge.svg)](https://github.com/SermetPekin/comply-repo/actions/workflows/python-package.yml) [![PyPI](https://img.shields.io/pypi/v/comply)](https://img.shields.io/pypi/v/comply) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/comply)](https://pypi.org/project/comply/) [![Downloads](https://pepy.tech/badge/comply/week)](https://pepy.tech/project/comply)
 
+[![Python package](https://github.com/SermetPekin/comply-repo/actions/workflows/python-package.yml/badge.svg)](https://github.com/SermetPekin/comply-repo/actions/workflows/python-package.yml) [![PyPI](https://img.shields.io/pypi/v/comply)](https://img.shields.io/pypi/v/comply) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/comply)](https://pypi.org/project/comply/) [![Downloads](https://pepy.tech/badge/comply/week)](https://pepy.tech/project/comply)
 # comply
 
     from comply import check
